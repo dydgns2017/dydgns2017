@@ -1,7 +1,16 @@
-### Hi there 👋
+# Yonghoon 👋 
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dydgns2017)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dydgns2017&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **dydgns2017/dydgns2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
